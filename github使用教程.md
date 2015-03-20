@@ -15,3 +15,9 @@ git commit： http://blog.csdn.net/hudashi/article/details/7664409
 
 
 dpust : https://github.com/OpenMindClub/OMOOC.py/wiki/dpush
+
+生成ssh http://blog.csdn.net/hustpzb/article/details/8230454
+
+创建SSH密钥，并连接GitHub  http://www.blogways.net/blog/2013/04/10/generating-ssh-keys-4-github.html
+
+用ssh方式连接 http://higrid.net/c-art-github_share_ssh.htm
